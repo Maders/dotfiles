@@ -1,2 +1,2 @@
 # .files
-My Personal configuration file & dot files 
+My Personal configuration files & dot files 
